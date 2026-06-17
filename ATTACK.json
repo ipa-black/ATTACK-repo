@@ -1,66 +1,67 @@
 {
-  "name": "CY STORE Repo",
-  "identifier": "com.cystore.official",
+  "name": "ATTACK STORE",
+  "identifier": "com.attackstore.repo",
+  "sourceURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ATTACK.json",
   "news": [
     {
       "title": "إعلان متجر VIP",
       "identifier": "promo-vip",
       "caption": "اشترك الآن في باقة VIP واستمتع بتطبيقات بدون إعلانات وتوقيع تلقائي للشهادات.",
-      "date": "2026-06-15T12:00:00Z",
+      "date": "2026-06-17T12:00:00Z",
       "tintColor": "#16BFE0",
-      "imageURL": "https://raw.githubusercontent.com/YourUser/Repo/main/images/banner1.jpg",
+      "imageURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/vip-banner.png",
       "url": "https://t.me/ipa_black"
     },
     {
       "title": "تحديث جديد",
       "identifier": "news-instaplus",
       "caption": "تمت إضافة تطبيق InstaPlus بآخر تحديث، حمله الآن!",
-      "date": "2026-06-14T12:00:00Z",
+      "date": "2026-06-17T12:00:00Z",
       "tintColor": "#E1306C",
-      "imageURL": "https://raw.githubusercontent.com/YourUser/Repo/main/images/banner2.jpg",
-      "appID": "com.cystore.instaplus"
+      "imageURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/update-banner.png",
+      "appID": "com.attackstore.instaplus"
     }
   ],
   "apps": [
     {
       "name": "InstaPlus",
-      "bundleIdentifier": "com.cystore.instaplus",
-      "developerName": "CY STORE Team",
+      "bundleIdentifier": "com.attackstore.instaplus",
+      "developerName": "ATTACK Team",
       "subtitle": "نسخة معدلة بميزات خرافية",
       "localizedDescription": "تطبيق إنستغرام بلس يوفر لك ميزات غير موجودة في النسخة الأصلية:\n- حفظ الصور والفيديوهات مباشرة للألبوم.\n- إخفاء قراءة الرسائل ومشاهدة القصص (الستوري).\n- التطبيق نظيف تماماً وخالي من الإعلانات المدمجة.",
-      "iconURL": "https://raw.githubusercontent.com/YourUser/Repo/main/images/insta_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/insta_icon.png",
       "tintColor": "#E1306C",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/YourUser/Repo/main/images/insta_screen1.jpg",
-        "https://raw.githubusercontent.com/YourUser/Repo/main/images/insta_screen2.jpg"
+        "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/insta_screen1.jpg",
+        "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/insta_screen2.jpg"
       ],
       "versions": [
         {
           "version": "285.0.0",
-          "date": "2026-06-15T10:00:00Z",
+          "date": "2026-06-17T10:00:00Z",
           "localizedDescription": "تحديث لآخر إصدار من المتجر الرسمي وإضافة ميزة التحميل بدقة عالية.",
-          "downloadURL": "https://raw.githubusercontent.com/YourUser/Repo/main/ipas/instaplus.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ipas/instaplus.ipa",
           "size": 145000000
         }
       ]
     },
     {
       "name": "Spotify++",
-      "bundleIdentifier": "com.cystore.spotifyplus",
-      "developerName": "CY STORE Team",
+      "bundleIdentifier": "com.attackstore.spotifyplus",
+      "developerName": "ATTACK Team",
       "subtitle": "استماع بدون قيود",
       "localizedDescription": "نسخة معدلة من تطبيق سبوتيفاي تتيح لك تخطي الأغاني بدون حدود، الاستماع بدون إعلانات صوتية، واختيار أي أغنية مجاناً.",
-      "iconURL": "https://raw.githubusercontent.com/YourUser/Repo/main/images/spotify_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/spotify_icon.png",
       "tintColor": "#1DB954",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/YourUser/Repo/main/images/spotify_screen1.jpg"
+        "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/spotify_screen1.jpg"
       ],
       "versions": [
         {
           "version": "8.8.10",
-          "date": "2026-06-10T08:00:00Z",
+          "date": "2026-06-15T08:00:00Z",
           "localizedDescription": "دعم كامل لإصدارات iOS 15 وما فوق، وتحسين سرعة التحميل.",
-          "downloadURL": "https://raw.githubusercontent.com/YourUser/Repo/main/ipas/spotify_plus.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ipas/spotify_plus.ipa",
           "size": 85000000
         }
       ]
