@@ -9,7 +9,7 @@
       "caption": "اشترك الآن في باقة VIP واستمتع بتطبيقات بدون إعلانات وتوقيع تلقائي للشهادات.",
       "date": "2026-06-17T12:00:00Z",
       "tintColor": "#16BFE0",
-      "imageURL": "https://up6.cc/2026/06/178203398239821.jpeg",
+      "imageURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/vip-banner.png",
       "url": "https://t.me/ipa_black"
     },
     {
@@ -18,10 +18,8 @@
       "caption": "تمت إضافة تطبيق InstaPlus بآخر تحديث، حمله الآن!",
       "date": "2026-06-17T12:00:00Z",
       "tintColor": "#E1306C",
-      "imageURL": "https://up6.cc/2026/06/17820339824372.jpeg",
-      "appID": "https://t.me/hl00ss"
-    }"
-    }"
+      "imageURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/update-banner.png",
+      "appID": "com.attackstore.instaplus"
     }
   ],
   "apps": [
