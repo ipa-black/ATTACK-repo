@@ -1,52 +1,52 @@
 {
-  "name": "ATTACK STORE",
+  "name": "الرئيسية",
   "identifier": "com.attackstore.repo",
   "sourceURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ATTACK.json",
   "news": [
     {
       "title": "إعلان متجر VIP",
       "identifier": "promo-vip",
-      "caption": "اشترك الآن في باقة VIP واستمتع بتطبيقات بدون إعلانات وتوقيع تلقائي للشهادات.",
+      "caption": "للتواصل مع الإدارة والاشتراك في باقة VIP للحصول على توقيع تلقائي.",
       "date": "2026-06-17T12:00:00Z",
       "tintColor": "#16BFE0",
       "imageURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/vip-banner.png",
       "url": "https://t.me/ipa_black"
     },
     {
-      "title": "تحديث جديد",
-      "identifier": "news-instaplus",
-      "caption": "تمت إضافة تطبيق InstaPlus بآخر تحديث، حمله الآن!",
+      "title": "قناتنا على التلجرام",
+      "identifier": "news-telegram",
+      "caption": "انضم إلى قناتنا على التلجرام لمتابعة أحدث التطبيقات والتحديثات اليومية.",
       "date": "2026-06-17T12:00:00Z",
-      "tintColor": "#E1306C",
+      "tintColor": "#229ED9",
       "imageURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/update-banner.png",
-      "appID": "com.attackstore.instaplus"
+      "url": "https://t.me/hl00ss"
     }
   ],
   "apps": [
     {
-      "name": "InstaPlus",
-      "bundleIdentifier": "com.attackstore.instaplus",
+      "name": "قناة التلجرام",
+      "bundleIdentifier": "com.attackstore.telegram",
       "developerName": "ATTACK Team",
-      "subtitle": "نسخة معدلة بميزات خرافية",
-      "version": "285.0.0",
+      "subtitle": "انضم لقناة hl00ss",
+      "version": "1.0",
       "versionDate": "2026-06-17T10:00:00Z",
-      "versionDescription": "تحديث لآخر إصدار من المتجر الرسمي وإضافة ميزة التحميل بدقة عالية.",
-      "downloadURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ipas/instaplus.ipa",
-      "size": 145000000,
-      "localizedDescription": "تطبيق إنستغرام بلس يوفر لك ميزات غير موجودة في النسخة الأصلية:\n- حفظ الصور والفيديوهات مباشرة للألبوم.\n- إخفاء قراءة الرسائل ومشاهدة القصص (الستوري).\n- التطبيق نظيف تماماً وخالي من الإعلانات المدمجة.",
+      "versionDescription": "تابع أحدث التحديثات والإصدارات الخاصة بمتجرنا.",
+      "downloadURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ipas/telegram.ipa",
+      "size": 15000000,
+      "localizedDescription": "اشترك في قناة التلجرام الرسمية hl00ss للحصول على أحدث التطبيقات المجانية والمعدلة، وتحديثات المتجر المستمرة.\n\nللتواصل مع المطور: @ipa_black",
       "iconURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/insta_icon.png",
-      "tintColor": "#E1306C",
+      "tintColor": "#229ED9",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/insta_screen1.jpg",
         "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/images/insta_screen2.jpg"
       ],
       "versions": [
         {
-          "version": "285.0.0",
+          "version": "1.0",
           "date": "2026-06-17T10:00:00Z",
-          "localizedDescription": "تحديث لآخر إصدار من المتجر الرسمي وإضافة ميزة التحميل بدقة عالية.",
-          "downloadURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ipas/instaplus.ipa",
-          "size": 145000000
+          "localizedDescription": "تابع أحدث التحديثات والإصدارات الخاصة بمتجرنا.",
+          "downloadURL": "https://raw.githubusercontent.com/ipa-black/ATTACK-repo/refs/heads/main/ipas/telegram.ipa",
+          "size": 15000000
         }
       ]
     },
